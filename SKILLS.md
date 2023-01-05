@@ -1,6 +1,0 @@
-- 👋 Olá, meu nome é Rodney Barbosa
-- 👀 Atualmente meu interesse está em desenvolvimento de sistemas e Automação.
-- 🧠 Possuo conhecimentos em C/C++, Java e Phyton.
-- 🌱 Estou aprendendo Banco de Dados e Engeharia de Software no 5º semetre de Engenharia de Computação.
-- 💞️ Tenho muita vontade de aplicar meus conhecimentos no ramo de desenvolvimento de sistemas. 
-- 📫 Contate-me via LinkedIn: www.linkedin.com/in/rodneybarbosa 

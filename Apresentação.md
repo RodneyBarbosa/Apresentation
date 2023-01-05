@@ -1,0 +1,7 @@
+- 👋 Olá, meu nome é Rodney Barbosa
+- 👀 Atualmente meu interesse está em desenvolvimento Web e Automação.
+- 🧠 Possuo conhecimentos em C/C++, Java e JavaScript.
+- 🌱 Estou  no 7º semetre de Engenharia de Computação pela UNASP.
+- 💞️ Tenho muita vontade de trabalhar na area de desenvolvimento web, e estou estudando pra isso.
+- 📚 Atualmente tenho afinidade com Programação, Lógica, Banco de Dados (Oracle), Git, Processos Ágeis, HTML e CSS.
+- 📫 Contate-me via LinkedIn: www.linkedin.com/in/rodneybarbosa 
